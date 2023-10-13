@@ -1,3 +1,3 @@
 
 
-![value](NEWSQL.png)
+![value](newsql-dark.png)
